@@ -13,5 +13,6 @@ def skip step right
   puts "bounce right foot back up slightly, kicking it a few inches back"
   puts "right,left,right and right"
 end
-
+def lasso
+  puts "start arm movement by holding left arm so the back of your wrist is near your chin pointing your left elbow straight left"
 # Code your methods below
