@@ -13,4 +13,5 @@ def skip step right
   puts "bounce right foot back up slightly, kicking it a few inches back"
   puts "right,left,right and right"
 end
+
 # Code your methods below
